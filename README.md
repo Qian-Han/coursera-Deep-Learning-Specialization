@@ -1,3 +1,5 @@
+coursera-Deep-Learning-Specialization
+
 I will upload the slides and assignments gradually, and if you like this repository, please follow me and give me a star :) (slides are not available right now in the course page)
 
 This course is created by deeplearning.ai. Master Deep Learning, and Break into AI
