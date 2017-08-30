@@ -1,6 +1,6 @@
 # coursera-Deep-Learning-Specialization
 
-I will upload the slides and assignments gradually, and if you like this repository, please follow me and give me a star :) (slides are not available right now in the course page)
+I will upload the slides and assignments gradually, and if you like this repository, please follow me and give me a star :) (slides are not available right now in the course page). The third course Stuctured Deep Learning focuses on the systematic method to improve the performance of Neural Network, while with no programming assignments.
 
 This course is created by deeplearning.ai. Master Deep Learning, and Break into AI
 
