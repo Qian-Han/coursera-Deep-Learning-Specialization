@@ -1,5 +1,7 @@
 # coursera-Deep-Learning-Specialization
 
+Updated Part 4: Convolutional Neural Networks's programme assignments
+
 I will upload the slides and assignments gradually, and if you like this repository, please follow me and give me a star :) (slides are not available right now in the course page). The third course Structuring Machine Learning Projects focuses on the systematic method to improve the performance of Neural Network, while with no programming assignments.
 
 This course is created by deeplearning.ai. Master Deep Learning, and Break into AI
